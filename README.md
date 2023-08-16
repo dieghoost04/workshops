@@ -1,2 +1,2 @@
-# workshops
+# Workshops
 Workshop Submissions - Conocimiento del negocio  
